@@ -148,37 +148,3 @@ for(n=1;n<=num_questions;n++){
 	score += question();
 }
 printf("Result %d/%d",score,num_questions);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
