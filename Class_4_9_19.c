@@ -133,14 +133,3 @@ void swap_rows(int nrowsint ncols,int A[][ncols],int i,int j){
 	}
 	return;
 }
-
-
-
-
-/*
-remove duplicate rows
-
-use helper functions
-	check if 2 rows are the same
-	set a row to -1
-*/
